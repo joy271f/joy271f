@@ -100,9 +100,15 @@ I build web apps that are easy to use, fast, and can grow with the needs of user
 I build clean, scalable web apps with performance and user experience in mind. *If you want to collaborate or just say hi, feel free to reach out!*
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/joychandradas" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://joychandradas.netlify.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:joychandradas007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
