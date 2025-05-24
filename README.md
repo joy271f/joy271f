@@ -22,8 +22,6 @@
   </a>
 </p>
 
-
-
 ---
 
 ### 🧑‍💻 About Me
@@ -70,6 +68,14 @@ I build web apps that are easy to use, fast, and can grow with the needs of user
 
 ---
 
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joy271f&theme=radical&hide_border=true">
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -83,14 +89,6 @@ I build web apps that are easy to use, fast, and can grow with the needs of user
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=joy271f&theme=algolia&row=1&column=6" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joy271f&theme=radical&hide_border=true">
 </p>
 
 ---
